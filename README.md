@@ -1,2 +1,7 @@
-# redeploy-and-verify-wallet-features-are-visible-in-the-ui
-Exported from Caffeine project: Redeploy and verify Wallet features are visible in the UI
+## 
+
+This source code has been exported from [Caffeine](https://caffeine.ai/)
+
+### Coming Soon
+
+We are working on tools to help you build locally and deploy your apps back to caffeine.
